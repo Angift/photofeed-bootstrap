@@ -1,0 +1,31 @@
+body
+{
+    background-color: gainsboro;
+}
+.instagram {
+    height: 384px;
+    width: 498px;
+    background-color: white;
+    margin: 5% auto;    
+}
+h3
+{
+   float: left;
+   margin: 20px;
+}
+h3 + p
+{
+   float: right;
+   padding-right: 20px;
+   color: gainsboro;
+}
+.instagram-imagen
+{
+    width: 100%;
+}
+.footer p
+{
+    width: 80%;
+    text-align: justify;
+    margin: 20px auto;
+}

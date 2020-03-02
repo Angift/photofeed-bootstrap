@@ -1,0 +1,23 @@
+body
+{
+    padding-top: 70px;
+}
+.row
+{
+    margin: 5px auto;
+}
+.navbar-brand
+{
+    font-family:handlee;
+}
+.no-gutter.row,
+.no-gutter.container,
+.no-gutter.container-fluid{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.no-gutter>[class^="col-"]{
+  padding-left: 0;
+  padding-right: 0;
+}
